@@ -1,5 +1,5 @@
-package com.gbdapp2;
-
+package com.gambodong.gbdApp2;
+import com.facebook.react.BuildConfig;
 import android.app.Application;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
